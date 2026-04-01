@@ -9,7 +9,7 @@ An end-to-end sales data analysis project on a New York City coffee shop chain. 
 ```
 coffee-shop-sales-analysis/
 │
-├── COFFEE_SHOP_SALES.xlsx        # Full project file (data + analysis + dashboard)
+├── Coffee Shop Dashboard.xlsx    # Full project file (data + analysis + dashboard)
 └── README.md                     # Project documentation
 ```
 
@@ -167,7 +167,7 @@ coffee-shop-sales-analysis/
 - **Weekdays outperform weekends** slightly, suggesting a strong commuter/office customer base.
 - **Large-size premium products** (Organic Coffee Lg, Dark Chocolate Lg) are top revenue drivers.
 
-<img src="coffee_shop_dashboard.png" alt="Alt text for the image" width="desired_width">
+<img src="Coffee-Shop-Dashboard.png" alt="Alt text for the image" width="desired_width">
 
 ---
 
