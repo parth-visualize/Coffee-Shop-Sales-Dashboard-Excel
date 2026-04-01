@@ -2,6 +2,8 @@
 
 An end-to-end sales data analysis project on a New York City coffee shop chain. This project explores **6 months of transactional data** (Jan–Jun 2023) across 3 store locations to uncover revenue trends, peak hours, top-selling products, and store-wise performance — using Excel, with a built-in Dashboard and Analytics sheet.
 
+<img src="Screenshot 2026-03-31 214437.png" alt="Alt text for the image" width="desired_width">
+
 ---
 
 ## 📁 Project Structure
